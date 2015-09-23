@@ -1,0 +1,26 @@
+{
+    "name": "adaulfo/amazon-mws-feeds",
+    "description": "Amazon MWS Feeds API with Composer integration",
+    "license": "Apache-2.0",
+    "keywords": [
+        "amazon",
+        "mws",
+        "api",
+        "feeds"
+    ],
+    "homepage": "",
+    "authors": [
+        {
+            "name": "danielegrosso",
+            "homepage": "https://github.com/danielegrosso"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
