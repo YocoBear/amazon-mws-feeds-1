@@ -1,5 +1,5 @@
 {
-    "name": "adaulfo/amazon-mws-feeds",
+    "name": "yocobear/amazon-mws-feeds",
     "description": "Amazon MWS Feeds API with Composer integration",
     "license": "Apache-2.0",
     "keywords": [
@@ -11,8 +11,8 @@
     "homepage": "",
     "authors": [
         {
-            "name": "danielegrosso",
-            "homepage": "https://github.com/danielegrosso"
+            "name": "yocobear",
+            "homepage": "https://github.com/yocobear"
         }
     ],
     "require": {
